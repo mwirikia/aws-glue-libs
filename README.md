@@ -4,7 +4,7 @@ This repository supports python libraries for local development of glue pyspark 
 
 ## Contents
 This repository contains:
- * `awsglue` - the Python libary you can use to author [AWS Glue](https://aws.amazon.com/glue) ETL job. This library extends [Apache Spark](https://spark.apache.org/) with additional data types and operations for ETL workflows. It's an interface for Glue ETL library in Python.
+ * `awsglue` - the Python library you can use to author [AWS Glue](https://aws.amazon.com/glue) ETL job. This library extends [Apache Spark](https://spark.apache.org/) with additional data types and operations for ETL workflows. It's an interface for Glue ETL library in Python.
  * `bin` - this directory hosts several executables that allow you to run the Python library locally or open up a PySpark shell to run Glue Spark code interactively.
 
 ## Python versions by Glue Version
